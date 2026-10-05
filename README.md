@@ -2,6 +2,10 @@
 
 A software 3D renderer that draws animated, textured models with ASCII characters and 24-bit terminal colors. Load Wavefront OBJ models, mix colored point lights, control the camera and rotation, and resize your Windows terminal while the renderer stays centered.
 
+## Demo video
+
+[Watch or download the example video](https://github.com/devil12juju/ascii-3d-rust/releases/download/v0.1.0/Video.mp4).
+
 ## Download and run
 
 Download `ascii-3d-rust-v0.1.0-windows-x64.zip` from [Releases](https://github.com/devil12juju/ascii-3d-rust/releases), extract **the entire folder**, and open `Run.cmd` for the animated torus. No Rust installation is required for the prebuilt Windows executable.

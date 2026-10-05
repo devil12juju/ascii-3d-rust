@@ -1,0 +1,5 @@
+newmtl checker
+Kd 1 1 1
+Ks 0 0 0
+Ns 32
+map_Kd -clamp on -s 1 1 1 -o 0 0 0 textures/checker.ppm

@@ -1,0 +1,10 @@
+[package]
+name = "ascii-3d-rust"
+version = "0.1.0"
+edition = "2021"
+description = "A terminal ASCII 3D renderer with OBJ models, textures, colored lighting, and live resizing"
+license = "MIT"
+authors = ["devil12juju"]
+
+[dependencies]
+image = { version = "0.25.10", default-features = false, features = ["png", "jpeg", "bmp", "tga", "pnm"] }
